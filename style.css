@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f0f0f0;
+}
+input {
+    padding: 10px;
+    margin: 10px;
+    font-size: 1em;
+}
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+pre {
+    background-color: #e0e0e0;
+    padding: 20px;
+    border-radius: 8px;
+    display: inline-block;
+    white-space: pre-wrap; 
+    text-align: left;
+    font-family: 'Courier New', monospace; 
+    margin-top: 20px;
+    line-height: 1.2; 
+}
